@@ -1,4 +1,4 @@
-![Shanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reknahs&show_icons=true&theme=radical&count_private=true)
+![Shanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reknahs&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reknahs&theme=dark&count_private=true)
 
