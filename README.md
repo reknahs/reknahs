@@ -4,5 +4,7 @@
 
 [![Shanker’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reknahs&theme=github-dark)](https://github.com/reknahs)
 
+![snake](https://github.com/reknahs/reknahs/blob/output/github-contribution-grid-snake-dark.svg)
+
 ![](https://komarev.com/ghpvc/?username=reknahs)
 
