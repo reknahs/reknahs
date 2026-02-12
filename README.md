@@ -4,7 +4,7 @@
 
 [![Shanker’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reknahs&theme=github-dark)](https://github.com/reknahs)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reknahs&show_icons=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reknahs&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=reknahs)
 
